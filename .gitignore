@@ -1,0 +1,23 @@
+# Yarn
+node_modules/
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# Misc
+.vscode
+*.log
+.DS_Store
+
+# Build
+dist/
+
+# Cache
+.parcel-cache/
+.cache/
+cache/
+*_cache_*/
+.eslintcache

@@ -1,0 +1,10 @@
+{
+  "name": "ti-games",
+  "version": "0.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": "git@github.com:Ayc0/ti-games.git",
+  "author": "Ayc0 <ayc0.benj@gmail.com>",
+  "private": true
+}

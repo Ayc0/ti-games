@@ -1,0 +1,11 @@
+{
+	"name": "main",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"parcel": "^2.0.0-rc.0"
+	},
+	"scripts": {
+		"start": "parcel serve src/index.html"
+	}
+}
